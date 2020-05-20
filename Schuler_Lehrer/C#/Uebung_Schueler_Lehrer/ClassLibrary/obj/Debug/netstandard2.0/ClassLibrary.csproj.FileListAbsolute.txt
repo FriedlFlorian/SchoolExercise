@@ -1,0 +1,9 @@
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\POSE\Matura\Schuler_Lehrer\C#\Uebung_Schueler_Lehrer\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
